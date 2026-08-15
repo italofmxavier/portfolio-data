@@ -50,8 +50,6 @@ Analisar dados históricos de vendas e gerar indicadores para apoiar a análise 
 
 ## 🖼️ Dashboard
 
-![Dashboard AutoSolutions](dashboard.png)
-
 ## 🎯 Objetivo Profissional
 
 Busco oportunidades na área de **Dados**, especialmente como **Analista de Dados ou Analista de BI**, onde possa aplicar meus conhecimentos técnicos e minha visão de negócio para transformar dados em informações claras e acionáveis.
