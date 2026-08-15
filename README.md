@@ -83,7 +83,7 @@ Busco oportunidades em que eu possa aplicar meus conhecimentos de **Administraç
 
 ## 📫 Contato
 
-💼 **LinkedIn:** [Meu LinkedIn]([(https://www.linkedin.com/in/italofmxavier/))
+💼 **LinkedIn:** [Meu LinkedIn](https://www.linkedin.com/in/italofmxavier/)
 
 🐙 **GitHub:** [italofmxavier](https://github.com/italofmxavier)
 
